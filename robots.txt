@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eigeishai.jennafelder.com/sitemap.xml
